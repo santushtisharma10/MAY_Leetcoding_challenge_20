@@ -4,10 +4,10 @@ You are a product manager and currently leading a team to develop a new product.
 Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad.
 
 You are given an API bool isBadVersion(version) which will return whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
-***
-### Example:
-***
 
+### Example:
+
+```
 Given n = 5, and version = 4 is the first bad version.
 
 call isBadVersion(3) -> false
@@ -18,5 +18,5 @@ call isBadVersion(4) -> true
 
 Then 4 is the first bad version. 
 
-***
-### To visit the question,please click [here](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)
+```
+### To visit the question, click [here](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)
